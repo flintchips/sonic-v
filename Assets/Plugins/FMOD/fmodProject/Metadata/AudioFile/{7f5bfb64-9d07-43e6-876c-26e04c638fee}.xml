@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7f5bfb64-9d07-43e6-876c-26e04c638fee}">
+		<property name="assetPath">
+			<value>StardustSpeedWayAct2.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>186.54040816326531</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba40341b-5813-46ce-9429-604f8705db23}</destination>
+		</relationship>
+	</object>
+</objects>

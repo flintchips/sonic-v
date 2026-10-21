@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerCol
+  - menuManager
+  - PhysicsManager
+  - triggers
+  - Ground
+  - A
+  - B
+  - Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Null
+  - Water
+  - UI
+  - Ground
+  - A
+  - B
+  - trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MenuRing
+    uniqueID: 1230015181
+    locked: 0
+  - name: BackgroundScroller
+    uniqueID: 1709826459
+    locked: 0

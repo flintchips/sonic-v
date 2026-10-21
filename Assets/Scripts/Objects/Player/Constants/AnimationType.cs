@@ -1,0 +1,33 @@
+﻿namespace Objects.Player.Constants
+{
+	public enum AnimationType
+	{
+		Idle,
+		IdleTurn,
+		Waiting,
+		LookUp,
+		Crouch,
+		Walk,
+		AirWalk,
+		Jog,
+		Run,
+		Dash,
+		Jump,
+		Skid,
+		SkidTurn,
+		SpinDash,
+		SpinDashPress,
+		Push,
+		Hurt,
+		Burnt,
+		Shocked,
+		Die,
+		SpringCs,
+		SpringDiagonal,
+		SpringTwirl,
+		AltJump,
+		Fall,
+		Balance,
+		Toasted,
+	}
+}

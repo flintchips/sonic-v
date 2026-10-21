@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306e59b7df9c18247bfc0f4a6d0bd8f6, type: 3}
+  m_Name: SkiddingDust
+  m_EditorClassIdentifier: 
+  animations:
+  - name: dustPuff
+    frames:
+    - {fileID: -1954505091, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -958673801, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1251780690, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -812652026, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 86629261, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 410408058, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: -1144085320, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1245555371, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 1877887143, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 2088939723, guid: f6059eaf9c35d084ab4b7932cbf12434, type: 3}
+    - {fileID: 0}

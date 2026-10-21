@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dc8b4bf6-7ebd-47b4-aa05-17856a6d3af3}">
+		<property name="assetPath">
+			<value>Charge.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.8333786848072562</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba40341b-5813-46ce-9429-604f8705db23}</destination>
+		</relationship>
+	</object>
+</objects>

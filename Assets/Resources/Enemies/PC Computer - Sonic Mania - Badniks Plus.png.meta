@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: c297b7a2a06a1274aa421912205432fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2841
+        width: 39
+        height: 29
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947cf6184efadcc44b9ec77835fbe8b0
+      internalID: -1422377146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2841
+        width: 39
+        height: 29
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749d00253aa018240b9fe98c2c9ec20c
+      internalID: -882536694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2841
+        width: 39
+        height: 29
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572b6e563982201488fd643b49663599
+      internalID: 2002564062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2841
+        width: 39
+        height: 29
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543651bf66fc2c948894e8fd6c8c2317
+      internalID: -1309260591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2841
+        width: 41
+        height: 29
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece1658184c2a6e48abd37c7758cf9b5
+      internalID: -209077663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2811
+        width: 40
+        height: 29
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0d5b3c4487d4a4da62eb4e599f7e50
+      internalID: -1607954208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2811
+        width: 40
+        height: 29
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed309575cc8d194097296cd28b5d4df
+      internalID: 826950847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2811
+        width: 39
+        height: 29
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8336b93ab60fb443bf778ef1e8cd688
+      internalID: 1313311630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2811
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 1.051282, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dd44df8f2099d4bac645de5155adf9
+      internalID: 273363262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2811
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 1.051282, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a10e6124cedf74eb37caa6aeb2818c
+      internalID: 93075471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2843
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 1.051282, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0366cd38d0104ab9aeb3b83ea04a0
+      internalID: 773799843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2813
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 1.051282, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca31709985c2f248816cbab99c2bb46
+      internalID: -1322301566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Sonic Mania - Badniks Plus_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2783
+        width: 39
+        height: 29
+      alignment: 9
+      pivot: {x: 1.051282, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c872aa58f3c394283f04602d3d839e
+      internalID: -463820227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Sonic Mania - Badniks Plus_0: -1422377146
+      PC Computer - Sonic Mania - Badniks Plus_1: -882536694
+      PC Computer - Sonic Mania - Badniks Plus_10: 773799843
+      PC Computer - Sonic Mania - Badniks Plus_11: -1322301566
+      PC Computer - Sonic Mania - Badniks Plus_12: -463820227
+      PC Computer - Sonic Mania - Badniks Plus_2: 2002564062
+      PC Computer - Sonic Mania - Badniks Plus_3: -1309260591
+      PC Computer - Sonic Mania - Badniks Plus_4: -209077663
+      PC Computer - Sonic Mania - Badniks Plus_5: -1607954208
+      PC Computer - Sonic Mania - Badniks Plus_6: 826950847
+      PC Computer - Sonic Mania - Badniks Plus_7: 1313311630
+      PC Computer - Sonic Mania - Badniks Plus_8: 273363262
+      PC Computer - Sonic Mania - Badniks Plus_9: 93075471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

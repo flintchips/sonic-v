@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4950de22-4b65-4973-8f32-f8446c806980}">
+		<property name="assetPath">
+			<value>SonicV_UtopiaIslandZone_Act1.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>81.777777777777771</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba40341b-5813-46ce-9429-604f8705db23}</destination>
+		</relationship>
+	</object>
+</objects>
