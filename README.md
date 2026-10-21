@@ -1,4 +1,43 @@
-# SonicV
+# SonicV.
+
+Hey it's me, flintchips. You're probably wondering what this is all about. 
+well a few years back me and a few people from Red Miso Studios began work
+on a new sonic game, this was long after the release of Sonic Hellfire saga, 
+which if you're a HUGE fan of sonic fan games, you might of heard of. This one
+was aimed to be a lot different, utilizing the unity game engine instead.
+I, flintchips was the main programmer at the time, using a guide from sonic
+retro [LINK](https://info.sonicretro.org/Sonic_Physics_Guide).
+
+### Art direction.
+Art and game design came from pixelcat_ who developed WONDERFUL sprite work
+including all the animations for sonic and the level/object sprites currently
+present in the scene. They are truly something else and I give great gratitude
+to how much effort they put into this project, it wouldn't be what it is, or was to be, without
+them. There was the idea to involve 2D DYNAMIC LIGHTING at some point in development
+which would really really give this project its own visual identity compared to 
+other sonic fan games. Some game mechanics would stem from this as well such as using it
+to restrict vision of bosses, etc.
+
+
+### Substeps. 
+THERE IS a substep system, its quite simple. The faster you run
+the more times between frames the game calculates your position based on your
+current velocity and runs the player physics loop in order to allow faster 
+action without running into issues that would normally be caused with traveling
+too far each frame, the number of substeps maxes out at 6 currently.
+
+### The Blue/gray Spring.
+The blue spring is a spring originally from Knuckles Chaotix, aimed to give more force than
+the red spring, this was planned to be included in the game and the substep feature would help
+it not break any physics calculations as the player can now travel faster than 16px per second.
+
+The gray spring is a new type of spring, aimed to be visually smaller and weaker than any other
+spring in the base sonic games, I love these new springs and they are present in the debug build.
+___
+
+## - original readme contents below -
+
+note: the lighting system is not present yet in the game as it was first described here.
  
 # Sound Engine (FMOD)
 See instructions [here](https://www.fmod.com/docs/2.01/unity/user-guide.html)
