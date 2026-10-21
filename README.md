@@ -2,7 +2,7 @@
 
 Hey it's me, flintchips. You're probably wondering what this is all about. 
 well a few years back me and a few people from Red Miso Studios began work
-on a new sonic game, this was long after the release of Sonic Hellfire saga, 
+on a new sonic game, this was long after the release of Sonic Hellfire Saga, 
 which if you're a HUGE fan of sonic fan games, you might of heard of. This one
 was aimed to be a lot different, utilizing the unity game engine instead.
 I, flintchips was the main programmer at the time, using a guide from sonic
