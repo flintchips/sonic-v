@@ -1,4 +1,4 @@
-# SonicV.
+# Sonic Virtual Adventure.
 
 Hey it's me, flintchips. You're probably wondering what this is all about. 
 well a few years back me and a few people from Red Miso Studios began work
