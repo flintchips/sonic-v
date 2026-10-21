@@ -9,6 +9,8 @@ I, flintchips was the main programmer at the time, using a guide from sonic
 retro [LINK](https://info.sonicretro.org/Sonic_Physics_Guide).
 
 ### Art direction.
+<img width="25%" alt="Screenshot 2026-10-21 114531" src="https://github.com/user-attachments/assets/388f7579-b623-47dd-989f-b4da874d1250" />
+
 Art and game design came from pixelcat_ who developed WONDERFUL sprite work
 including all the animations for sonic and the level/object sprites currently
 present in the scene. They are truly something else and I give great gratitude
@@ -18,7 +20,6 @@ which would really really give this project its own visual identity compared to
 other sonic fan games. Some game mechanics would stem from this as well such as using it
 to restrict vision of bosses, etc.
 
-
 ### Substeps. 
 THERE IS a substep system, its quite simple. The faster you run
 the more times between frames the game calculates your position based on your
@@ -27,6 +28,8 @@ action without running into issues that would normally be caused with traveling
 too far each frame, the number of substeps maxes out at 6 currently.
 
 ### The Blue/gray Spring.
+<img width="25%" alt="Screenshot 2026-10-21 114553" src="https://github.com/user-attachments/assets/8528d896-abbf-47c6-a7ee-0da48dfd62d7" />
+
 The blue spring is a spring originally from Knuckles Chaotix, aimed to give more force than
 the red spring, this was planned to be included in the game and the substep feature would help
 it not break any physics calculations as the player can now travel faster than 16px per second.
